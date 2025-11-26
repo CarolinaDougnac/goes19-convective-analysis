@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Datos pesados y privados
+data/
+*.nc
+*.h5
+*.grib
+*.zip
+*.tar.gz
+
+# Jupyter
+.ipynb_checkpoints/
+

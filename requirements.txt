@@ -1,0 +1,10 @@
+numpy
+pandas
+xarray
+matplotlib
+cartopy
+rioxarray
+rasterio
+netCDF4
+tqdm
+
